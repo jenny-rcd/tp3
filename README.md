@@ -17,3 +17,5 @@ Dans ce TP on apprend à travailler avec git.
 3 : Utiliser git add <fichier> pour sélectionner les fichiers à modifier.
 
 4 : Utiliser git commit -m "commentaire" pour valider l'envoie au dépôt.
+
+Nous avons maintenant créé une nouvelle branche de test
